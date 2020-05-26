@@ -109,6 +109,7 @@ article{
 	float: left;
 	overflow: hidden;
 	overflow-y: scroll;
+	position: fixed;
 	}
 
 	.right-main{
@@ -116,6 +117,7 @@ article{
 	background-color: #dadbea;
 	float: right;
 	display: inline;
+	margin-left: 250px;
 	}
 
 	.eyoo{
